@@ -1,0 +1,13 @@
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\bin\Debug\Project_for_test.Tests.exe.config
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\bin\Debug\Project_for_test.Tests.exe
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\bin\Debug\Project_for_test.Tests.pdb
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\bin\Debug\nunit.framework.dll
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\bin\Debug\Project_for_test.dll
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\bin\Debug\Project_for_test.pdb
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\bin\Debug\nunit.framework.pdb
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\bin\Debug\nunit.framework.xml
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\obj\Debug\Project_for_test.Tests.csprojAssemblyReference.cache
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\obj\Debug\Project_for_test.Tests.csproj.CoreCompileInputs.cache
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\obj\Debug\Project_for_test.Tests.csproj.CopyComplete
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\obj\Debug\Project_for_test.Tests.exe
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\obj\Debug\Project_for_test.Tests.pdb

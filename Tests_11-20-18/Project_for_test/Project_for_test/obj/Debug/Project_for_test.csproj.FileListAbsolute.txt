@@ -1,0 +1,6 @@
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test\bin\Debug\Project_for_test.dll
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test\bin\Debug\Project_for_test.pdb
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test\obj\Debug\Project_for_test.csproj.CoreCompileInputs.cache
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test\obj\Debug\Project_for_test.dll
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test\obj\Debug\Project_for_test.pdb
+E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test\obj\Debug\Project_for_test.csprojAssemblyReference.cache
