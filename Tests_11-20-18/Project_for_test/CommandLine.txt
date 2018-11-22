@@ -1,0 +1,6 @@
+//Execute all tests in one suit
+
+//Execute all tests where Author is Anastasia K
+nunit3-console "E:\Epam_training\Tests_11-20-18\Project_for_test\Project_for_test.Tests\Project_for_test.Tests.csproj" --where "Author == ""Anastasia K""
+
+//Execute one test
